@@ -25,7 +25,7 @@
 
 ### My GitHub Contributions
 
-![](https://cwd295645351.github.io/dxmwl/github-contribution-grid-snake.svg)
+![](https://dxnwl.github.io/dxmwl/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
