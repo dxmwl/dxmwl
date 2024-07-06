@@ -6,6 +6,9 @@
 
 ## Hi, 👋 I'm 常利兵
 
+- 🌱 目前正在学习 `Android` 、 `Java` 
+- 📫 联系方式: 3214341986@qq.com
+  
 <p align="center">
   <a href="https://www.jianshu.com/u/d2cd4a8ecc73">
     <img src="https://img.shields.io/badge/📖%20简书地址-brightness.svg" />
@@ -17,9 +20,6 @@
     <img src="https://komarev.com/ghpvc/?username=dxmwl&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
-
-- 🌱 目前正在学习 `Android` 、 `Java` 
-- 📫 联系方式: 3214341986@qq.com
 
 <p align="center">我是一名萌新 Android 程序员，平时喜欢学习一些新的技术,大家一起进步吧</p>
 
