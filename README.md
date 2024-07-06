@@ -16,5 +16,10 @@
   </a>  
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwd295645351&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
+
+
 
 <p align="center">我是一名萌新 Android 程序员，平时喜欢学习一些新的技术,大家一起进步吧</p>
