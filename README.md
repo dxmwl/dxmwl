@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/clb">
-    <img src="https://github-readme-stats.vercel.app/api?username=clb&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  <a href="https://github.com/dxmwl">
+    <img src="https://github-readme-stats.vercel.app/api?username=dxmwl&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   </a>
 </p>
 
@@ -11,8 +11,8 @@
   <a href="https://blog.csdn.net/qq_32890771?type=blog">
     <img src="https://img.shields.io/badge/CSDN-常利兵-red.svg" />
   </a>
-  <a href="https://github.com/clb">
-    <img src="https://komarev.com/ghpvc/?username=clb&color=brightgreen&label=👁%20Views" />
+  <a href="https://github.com/dxmwl">
+    <img src="https://komarev.com/ghpvc/?username=dxmwl&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
 
