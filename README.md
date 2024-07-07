@@ -25,6 +25,8 @@
 
 <p align="center">我是一名萌新 Android 程序员，平时喜欢学习一些新的技术,大家一起进步吧</p>
 
+![亮色](https://raw.githubusercontent.com/dxmwl/dxmwl/output/github-contribution-grid-snake.svg)
+
 ### My GitHub Stats
 
 <div align="left">
