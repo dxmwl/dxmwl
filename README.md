@@ -29,3 +29,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dxmwl&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxmwl&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=dxmwl&theme=dracula)
