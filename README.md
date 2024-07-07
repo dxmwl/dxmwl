@@ -4,6 +4,8 @@
   </a>
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/dxmwl/count.svg)
+
 ## Hi, 👋 I'm 常利兵
 
 - 🌱 目前正在学习 `Android` 、 `Java` 
