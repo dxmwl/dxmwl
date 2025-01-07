@@ -9,7 +9,11 @@
 ## Hi, 👋 I'm 常利兵
 
 - 🌱 目前正在学习 `Android` 、 `Java` ，`Kotlin`，`uniapp`
+- 💰 如果有开发类的需求，欢迎与我联系
 - 📫 联系方式: 3214341986@qq.com
+- 📞 16692495109
+- V信 dxmcpjl
+- QQ  1529097251
   
 <p align="center">
   <a href="https://www.jianshu.com/u/d2cd4a8ecc73">
