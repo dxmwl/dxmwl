@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=一个会写代码的产品经理&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
 <p align="center">
   <a href="https://github.com/dxmwl">
     <img src="https://github-readme-stats-eldments-projects.vercel.app/api?username=dxmwl&show_icons=true&theme=transparent&title_color=65b587&icon_color=7dc09a&border_color=7dc09a" />
